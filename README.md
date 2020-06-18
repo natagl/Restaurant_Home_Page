@@ -1,2 +1,2 @@
 # Tasty Food
-![alt text](./images/home_page.jpg)
+![alt text](/home_page.jpg)
